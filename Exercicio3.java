@@ -15,7 +15,7 @@ public class Exercicio3 {
 
             soma = num1 + num2;
         } catch (Exception ex) {
-            System.out.println("Erro ao pegar num1 e/ou num2 no exercicio3():\n" + ex);
+            System.out.println("Erro ao pegar num1 e/ou num2 no Exercicio3:\n" + ex);
         }
         System.out.println("A soma de " + num1 + " e " + num2 + " eh:\n" + soma);
     }
